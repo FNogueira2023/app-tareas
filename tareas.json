@@ -1,0 +1,16 @@
+[
+    {
+        "titulo": "Estudiar JSNode",
+        "estado": "en progreso"
+    },
+
+    {
+        "titulo": "Armar aplicacion de Tareas",
+        "estado": "pendiente"
+    },
+
+    {
+        "titulo": "Break",
+        "estado": "terminada"
+    }
+]
